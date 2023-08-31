@@ -1,0 +1,12 @@
+version: "3"
+services:
+  DisasterInformationCollectionServer:
+    image: freemoon99/disaster-information-collection-server:latest
+    ports:
+      - "8080:8080"
+    depends_on:
+      - redis
+  redis:
+    image: redis
+    ports:
+      - 6379:6379

@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  logging:
+    level:
+      root: DEBUG
+  redis:
+    host: redis
+    port: 6379
