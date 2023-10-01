@@ -163,6 +163,7 @@ public class DiasterSubscriber {
 
 ---
 ## 관련 자료
+- [pub/sub 메시지 브로커](https://cloud.google.com/solutions/event-driven-architecture-pubsub?hl=ko)
 - [Spring Boot 일정시간마다 실행시키기](https://andonekwon.tistory.com/70)
 - [노션 자료](https://kyuhyun.notion.site/bd8a8ef6f02e4a6ba48dcb8f2588b2a5?pvs=4)
 - [개인 공부 자료](https://github.com/freemoon99/study/tree/main/practie_springSecurity)
